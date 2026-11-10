@@ -54,7 +54,33 @@ Meu objetivo é evoluir como desenvolvedora e conquistar minha primeira oportuni
 
 ---
 
-## ✦ Atividade no GitHub
+## ✦ Contribution Snake
 
 <div align="center">
-  <img width="100%" src="
+  <img src="https://raw.githubusercontent.com/ligiaoliveira/ligiaoliveira/output/github-contribution-grid-snake.svg" alt="Snake animation das contribuições do GitHub" />
+</div>
+
+---
+
+## ✦ Vamos nos conectar?
+
+<div align="center">
+<a href="https://github.com/ligiaoliveira">
+  <img src="https://img.shields.io/badge/GitHub-B57EDC?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ligia-c-oliveira/">
+  <img src="https://img.shields.io/badge/LinkedIn-B57EDC?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+  
+---
+
+### ✧ Cada linha de código é mais um passo na minha evolução. ✧
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+
+</div>
